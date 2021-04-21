@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.exe
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.deps.json
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.dll
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\ref\Number12.dll
+C:\Users\ADMIN\Desktop\Ex\Number12\bin\Debug\net5.0\Number12.pdb
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.dll
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\ref\Number12.dll
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.pdb
+C:\Users\ADMIN\Desktop\Ex\Number12\obj\Debug\net5.0\Number12.genruntimeconfig.cache

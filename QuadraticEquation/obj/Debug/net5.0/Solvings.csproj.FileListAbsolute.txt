@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.exe
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.deps.json
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.dll
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\ref\Solvings.dll
+C:\Users\ADMIN\Desktop\Assignments\Solvings\bin\Debug\net5.0\Solvings.pdb
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.dll
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\ref\Solvings.dll
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.pdb
+C:\Users\ADMIN\Desktop\Assignments\Solvings\obj\Debug\net5.0\Solvings.genruntimeconfig.cache

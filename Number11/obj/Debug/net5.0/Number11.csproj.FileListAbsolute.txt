@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.exe
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.deps.json
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.dll
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\ref\Number11.dll
+C:\Users\ADMIN\Desktop\Ex\Number11\bin\Debug\net5.0\Number11.pdb
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.dll
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\ref\Number11.dll
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.pdb
+C:\Users\ADMIN\Desktop\Ex\Number11\obj\Debug\net5.0\Number11.genruntimeconfig.cache

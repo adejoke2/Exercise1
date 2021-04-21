@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.exe
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.deps.json
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.dll
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\ref\Number17.dll
+C:\Users\ADMIN\Desktop\Ex\Number17\bin\Debug\net5.0\Number17.pdb
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.dll
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\ref\Number17.dll
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.pdb
+C:\Users\ADMIN\Desktop\Ex\Number17\obj\Debug\net5.0\Number17.genruntimeconfig.cache

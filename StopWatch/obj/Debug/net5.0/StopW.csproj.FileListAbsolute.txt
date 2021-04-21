@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.exe
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.deps.json
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.dll
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\ref\StopW.dll
+C:\Users\ABDUL MATEEN\Desktop\StopW\bin\Debug\net5.0\StopW.pdb
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.dll
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\ref\StopW.dll
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.pdb
+C:\Users\ABDUL MATEEN\Desktop\StopW\obj\Debug\net5.0\StopW.genruntimeconfig.cache
